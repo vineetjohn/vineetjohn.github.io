@@ -1,1 +1,1 @@
-# vineetjohn.github.io
+# vineetjohn.com / vineetjohn.github.io

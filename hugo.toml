@@ -5,7 +5,6 @@ theme = 'coder'
 
 defaultcontentlanguage = "en"
 
-paginate = 20
 
 [markup.highlight]
 style = "github-dark"
