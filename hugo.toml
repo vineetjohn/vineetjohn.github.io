@@ -1,11 +1,10 @@
 baseURL = 'https://vineetjohn.com'
 languageCode = 'en-us'
 title = 'Vineet John'
-theme = 'coder'
+theme = 'hugo-coder'
 
 defaultcontentlanguage = "en"
 
-paginate = 20
 
 [markup.highlight]
 style = "github-dark"
